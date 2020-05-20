@@ -1,2 +1,2 @@
-# -ckb-indexer-docker
+# ckb-indexer-docker
 CKB Indexer Dockerfile
